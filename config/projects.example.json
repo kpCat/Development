@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "projects": {
+    "mkr": { "root": "", "harness": "opencode", "targetContextTokens": 65536, "contextStatus": "FUTURE_NOT_TESTED" },
+    "mkp": { "root": "", "harness": "opencode", "targetContextTokens": 65536, "contextStatus": "FUTURE_NOT_TESTED" }
+  },
+  "futureLocalProvider": { "baseUrl": "http://127.0.0.1:1234/v1", "status": "NOT_TESTED", "enabled": false }
+}
